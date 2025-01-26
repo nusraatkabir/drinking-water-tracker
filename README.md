@@ -1,1 +1,1 @@
-# drinking-water-tracker
+# Drinking Water Tracker
